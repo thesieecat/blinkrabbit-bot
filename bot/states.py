@@ -1,0 +1,8 @@
+IDLE = "idle"
+AWAIT_PDF_IMAGES = "await_pdf_images"
+AWAIT_COMPRESS = "await_compress"
+AWAIT_QR_TEXT = "await_qr_text"
+AWAIT_PASSPORT = "await_passport"
+AWAIT_RESIZE_IMAGE = "await_resize_image"
+AWAIT_RESIZE_DIMS = "await_resize_dims"
+AWAIT_REMOVE_BG = "await_remove_bg"
